@@ -1,2 +1,2 @@
-# hatch
+# HaTch
 hatch code exs
